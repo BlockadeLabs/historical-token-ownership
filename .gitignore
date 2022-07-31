@@ -1,0 +1,12 @@
+.DS_Store
+build
+package-lock.json
+node_modules
+pnpm-lock.yaml
+cache
+artifacts
+.env
+output/*
+
+# Watch for .gitkeep
+!.gitkeep

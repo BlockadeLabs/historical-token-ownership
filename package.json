@@ -1,0 +1,24 @@
+{
+  "name": "historical-token-ownership",
+  "version": "1.0.0",
+  "description": "Get a list of historical owners of an ERC-721 or ERC-1155 at a specific block",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlockadeLabs/historical-token-ownership.git"
+  },
+  "author": "Ben Heidorn (Cybourgeoisie)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BlockadeLabs/historical-token-ownership/issues"
+  },
+  "homepage": "https://github.com/BlockadeLabs/historical-token-ownership#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.6",
+    "yargs": "^17.5.1"
+  }
+}
